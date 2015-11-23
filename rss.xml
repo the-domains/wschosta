@@ -4,14 +4,14 @@
         <description><![CDATA[Walter G Schostak]]></description>
         <link>https://thegrid.ai/wschosta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 18:00:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 18:00:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wschosta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test]]></title>
             <description><![CDATA[<article><h1>Test</h1><p>This is a test</p></article>]]></description>
             <link>https://thegrid.ai/wschosta/test/index.html</link>
             <guid isPermaLink="false">52e27268-5b64-49da-91cd-f5b99341df9f</guid>
-            <pubDate>Mon, 23 Nov 2015 17:59:17 GMT</pubDate>
+            <pubDate>Mon, 23 Nov 2015 17:59:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
