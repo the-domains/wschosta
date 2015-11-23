@@ -2,6 +2,7 @@ name: wschosta
 favicon: null
 layout_spectrum: 0.9950215148273855
 typography_spectrum: 0.9357047942467034
+title: Test
 cta:
   domain: null
   bucket: null
